@@ -1,0 +1,6 @@
+{
+  "name": "Evansville Local Buzz",
+  "description": "Real-time community feed, local events, breaking news, and traffic alerts across Evansville, Vanderburgh, and surrounding Tri-State counties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
